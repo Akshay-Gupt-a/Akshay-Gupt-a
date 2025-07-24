@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Akshay Gupta
 
 🎓 MCA'25 | Aspiring Backend Developer  
 💻 Learning: DSA | Spring Boot | DevOps | LLD | Agentic AI  
