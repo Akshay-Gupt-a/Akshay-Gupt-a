@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Akshay-Gupt-a
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning Web Development...
-- 💞️ I’m looking to collaborate on Web Development...
+# Hi there 👋 I'm [Your Name]
+
+🎓 MCA'25 | Aspiring Backend Developer  
+💻 Learning: DSA | Spring Boot | DevOps | LLD | Agentic AI  
+🌱 Open Source Contributor – Dev in Progress  
+🌍 Exploring Remote Internship Opportunities (Post-Diwali 2025)
+
+## 🛠️ Tech Stack
+- Java | Spring Boot | MySQL | REST APIs
+- Git & GitHub | Docker | CI/CD Basics
+- Linux | VS Code | IntelliJ IDEA
 <!---- 📫 How to reach me  ...
 
 
